@@ -6,7 +6,7 @@ AI engineer. LLM systems, RAG, evaluation, Python backends.
 - [ML-DATA](https://github.com/Venius24/ML-DATA) — leakage-free tabular regression, validated on an unseen month
 - [CheapKZ](https://github.com/Venius24/cheapkz) — price monitoring with anomaly detection and explainable deal scoring
 
-Contributor to [fairlearn](https://github.com/fairlearn/fairlearn/pulls?q=author%3AVenius24), [scherlok](https://github.com/rbmuller/scherlok/pulls?q=author%3AVenius24) and [Sentient](https://github.com/existence-master/Sentient/pulls?q=author%3AVenius24).
+Contributor to [fairlearn](https://github.com/fairlearn/fairlearn/pulls?q=author%3AVenius24) and [Sentient](https://github.com/existence-master/Sentient/pulls?q=author%3AVenius24).
 
 [Telegram](https://t.me/bigdata2831)
 
